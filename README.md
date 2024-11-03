@@ -32,8 +32,22 @@
 
 ## 🎓 Certifications
 - AWS Certified Cloud Practitioner (May ’24)
-- AWS Cloud Practitioner Essentials (Dec ’23)
 
 ---
 
-Feel free to connect or collaborate! 🚀
+## 💳 GitHub Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomilMovaliya&theme=vue"/>
+</p>
+
+
+## 📟 GitHub Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RomilMovaliya&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RomilMovaliya&theme=vue" />
+</p>
+
+[![Romil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RomilMovaliya&theme=github-compact&hide_border=tru)](https://github.com/RomilMovaliya)
+
+
+- Feel free to connect or collaborate! 🚀
