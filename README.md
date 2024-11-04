@@ -37,14 +37,14 @@
 
 ## 💳 GitHub Profile Summary Card
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomilMovaliya&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RomilMovaliya&theme=transparent&hide_border=true&card_width=400"/>
 </p>
 
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RomilMovaliya&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RomilMovaliya&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RomilMovaliya&show_icons=true&theme=transparent&hide_border=true&card_width=400" />
+	<img width="48%" src="https://streak-stats.demolab.com/?user=RomilMovaliya&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=400)](https://github.com/RomilMovaliya" />
 </p>
 
 [![Romil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RomilMovaliya&theme=github-compact&hide_border=tru)](https://github.com/RomilMovaliya)
