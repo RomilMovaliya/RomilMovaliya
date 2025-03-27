@@ -16,9 +16,9 @@
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Java, C++, HTML, CSS, Bootstrap, SQL
+- **Languages:** Java, C++, HTML, CSS, Bootstrap, Javascript, Typescript, MaterialUI, SQL
 - **Developer Tools:** VS Code, AWS, Android Studio
-- **Technologies/Frameworks:** Linux, Kubernetes, Git, GitHub, Docker, Jenkins
+- **Technologies/Frameworks:** React, Node, Linux, Kubernetes, Git, GitHub, Docker, Jenkins
 - **IT Constructs:** Operating Systems, DSA, OOPS, AI/ML, Computer Networks, DBMS, Cloud Computing, MySQL
 
 ---
